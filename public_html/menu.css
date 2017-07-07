@@ -1,0 +1,79 @@
+.ddsmoothmenu-v ul{
+margin: 0;
+/*padding:0 0 50px 0;*/
+width: 184px; /* Main Menu Item widths */
+list-style-type: none;
+font: bold 12px Verdana ;
+height:240px;
+}
+ 
+.ddsmoothmenu-v ul li{
+position: relative;
+	
+}
+
+/* Top level menu links style */
+.ddsmoothmenu-v ul li a{
+display: block;
+overflow: auto; /*force hasLayout in IE7 */
+text-decoration: none;
+padding:12px 0 13px 15px;
+background:url(images/seprate2.png) no-repeat bottom center !important;
+background-color:#5c5955 !important;
+
+
+
+}
+
+.ddsmoothmenu-v ul li img{
+	
+	padding:0 10px 0 0;
+
+
+}
+
+
+
+.ddsmoothmenu-v ul li a:link, .ddsmoothmenu-v ul li a:visited, .ddsmoothmenu-v ul li a:active{
+background: #ff8800; /*background of menu items (default state)*/
+color:white;
+
+}
+
+
+.ddsmoothmenu-v ul li a.selected{ /*CSS class that's dynamically added to the currently active menu items' LI A element*/
+background-color:#ff9900 !important; 
+color:white;
+
+}
+
+.ddsmoothmenu-v ul li a:hover{
+background:#ff9900 !important; /*background of menu items during onmouseover (hover state)*/
+color: white;
+}
+/*Sub level menu items */
+.ddsmoothmenu-v ul li ul{
+position: absolute;
+width: 184px; /*Sub Menu Items width */
+/*top: 10px !important;*/
+font-weight: normal;
+visibility: hidden;
+
+
+
+}
+
+.ddsmoothmenu-v ul li ul li  {
+	background-color:#FF9900 !important;
+
+}
+selected ul li a img {
+	padding:0 5px 0 0 !important;
+	}
+
+
+
+/* Holly Hack for IE \*/
+* html .ddsmoothmenu-v ul li { float: left; height: 1%;}
+* html .ddsmoothmenu-v ul li a { height: 1%; }
+/* End */
