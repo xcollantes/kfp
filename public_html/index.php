@@ -18,11 +18,14 @@
         <a href="index.php"><img src="images/kirkland-logo.png" /></a>
       </div>
       <div class="cell-main">
-        <div class="cellnum">
-          <img src="images/phone-icon.png" />&nbsp;425 821 4800
+        <div class="txt-main">
+          <b>TEL:</b> 425-821-4800
         </div>
         <div class="txt-main">
-          <b>Store Hours</b> - Monday to Friday <span>9</span>-6 - Saturday <span>9</span>-5
+          <b>STORE HOURS:</b> 9:00AM ~ 6:00PM M-F
+        </div>
+        <div class="txt-main">
+          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;9:00AM ~ 5:00PM S
         </div>
       </div>
       <div class="clear"></div>
@@ -32,45 +35,8 @@
     </div>
     <div id="banner">
       <div id="slideshow">
-        <img src="images/banner-img.png"  width="900px" height="318" alt="image1" class="active" /><img src="images/banner-2.jpg"  width="900px" height="318" alt="image2" /><img src="images/banner-3.jpg" width="900px" height="318" alt="image3" /><img src="images/banner-4.jpg" width="900px" height="318" alt="image4" />
+        <img src="images/banner-img.png"  width="900px" height="318" alt="image1" class="active" /><img src="images/banner-2.png"  width="900px" height="318" alt="image2" /><img src="images/banner-3.jpg" width="900px" height="318" alt="image3" /><img src="images/banner-4.jpg" width="900px" height="318" alt="image4" /><img src="images/banner-5.jpg" width="900px" height="318" alt="image5" />
       </div>
-    </div>
-    <div class="box-main">
-    <div><img src="images/boxs-bg-uppr.png" /></div>
-    <div class="box-mid">
-    <div class="box-hd"><h2>Seattle Home Show Special</h2></div>
-    <div class="innr-box">
-    <div class="innr-lft">
-    <div class="innr-box-pic"><a href="puget-energy.php"><img src="images/box-img.png"/></a></div>
-    <div class="price-tag"><span>$</span>200 <span class="new">Rebate</span></div>
-    <div class="clear"></div>
-    </div>
-    <div class="rite-txt">
-    <h2>Puget Sound Energy</h2>
-    <p style="width:170px;">For a limited time, PSE is offering, <br />
-    a $200 rebate. when you install a<br />
-    qualifying high-efficiency...<a  style="text-decoration:none;color:#000000;" href="puget-energy.html">[....]</a>
-    </p>
-    </div>
-    <div class="clear"></div>
-    </div>
-    <div class="innr-box">
-    <div class="innr-lft">
-    <div class="innr-box-pic"><a href="contact_us.php"><img src="images/box-img-2.png" width="71" height="61" /></a></div>
-    <div class="clear"></div>
-    </div>
-    <div class="rite-txt">
-    <h2><a style="text-decoration:none; color:#000000" href="contact_us.php">Current Specials</a></h2>
-    <p>Contact us for more information <br />
-    about specials <br />
-    <a style="text-decoration:none;color:#000000;" href="contact_us.php">[....]</a>
-    </p>
-    </div>
-    <div class="clear"></div>
-    </div>
-    <div class="clear"></div>
-    </div>
-    <div><img src="images/box-bg-bottom.png" /></div>
     </div>
     <div class="content-main">
     <div class="content-main-lft">

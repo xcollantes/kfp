@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6, p, a, img, table, tr, td, ul, li, ol, dl, dd {
 }
 .cell-main {
 	float:right;
-	padding:31px 40px 0 0;
+	padding:10px 60px 0 0;
 }
 .cellnum {
 	font-family:Georgia;
@@ -838,8 +838,8 @@ p.sliderimg a {
 	/*background:url(../images/banner_shadow.gif) no-repeat bottom center;
 
 	*/
-	
-	
+
+
 	position:relative;
 	overflow:hidden;
 	width:900px;
