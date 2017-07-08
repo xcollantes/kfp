@@ -34,7 +34,7 @@
     </div>
     <div id="banner">
       <div id="slideshow">
-        <img src="images/banner-img.png" width="900px" height="318" alt="image1" class="active" /><img src="images/banner-2.png" width="900px" height="318" alt="image2" /><img src="images/banner-3.jpg" width="900px" height="318" alt="image3" /><img src="images/banner-4.jpg" width="900px" height="318" alt="image4" /><img src="images/banner-5.jpg" width="900px" height="318" alt="image5" />
+        <img src="images/banner-img.png" width="900px" height="450" alt="image1" class="active" /><img src="images/banner-2.png" width="900px" height="450" alt="image2" /><img src="images/banner-3.jpg" width="900px" height="450" alt="image3" /><img src="images/banner-4.jpg" width="900px" height="450" alt="image4" /><img src="images/banner-5.jpg" width="900px" height="450" alt="image5" />
       </div>
     </div>
     <div class="content-main">

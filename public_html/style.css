@@ -64,9 +64,8 @@ h1, h2, h3, h4, h5, h6, p, a, img, table, tr, td, ul, li, ol, dl, dd {
 	position:relative;
 	background-color:#5E5B57;
 	height:38px;
-	margin:0 5px 0 5px;
-	width:908px;
-	padding:0 18px 0 34px;
+	margin:0 auto;
+	width:900px;
 }
 #menu-main ul {
 	margin:0;
@@ -268,13 +267,13 @@ h1, h2, h3, h4, h5, h6, p, a, img, table, tr, td, ul, li, ol, dl, dd {
 }
 .footer-main {
 	background-color:#5E5B57;
-	width:900px;
-	margin:0 5px;
+	width:864px;
+	margin:0 auto;
 	height:52px;
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:11px;
 	color:#949494;
-	padding:12px 32px 0 28px;
+	padding:18px 18px 0 18px;
 }
 .banner-main {
 	background-image:url(images/banner-img.png);
@@ -575,8 +574,6 @@ h1, h2, h3, h4, h5, h6, p, a, img, table, tr, td, ul, li, ol, dl, dd {
 	text-decoration: underline;
 }
 /*Gallery css starts*/
-
-
 #wrapper1 {
 	width:900px;
 	margin:0 auto 25px auto;
@@ -688,8 +685,6 @@ p.sliderimg a {
 	display:block;
 	padding:13px 40px 0 50px;
 }
-/*construction*/
-
 .construction {
 	padding:28px 0 12px 0;
 }
@@ -732,14 +727,6 @@ p.sliderimg a {
 .mrgn {
 	padding:27px 0px 94px 0;
 }
-/*.content-main-lft_new{width:606px; background:url(images/sprt-img.png no-repeat right top;min-height:260px; max-height:auto; float:left;}
-
-.content-main-lft_new h2{font-size:14px; color:#FF8800; font-weight:bold; margin:0 0 16px 0;}
-
-.content-main-lft_new p{font-size:12px; color:#55585A; font-weight:normal; line-height:18px;}
-
-.content-main-lft_new p span{font-weight:bold; color:#FFA640;}
-*/
 .construction {
 	padding:28px 0 12px 0;
 }
@@ -817,7 +804,7 @@ p.sliderimg a {
 }
 #slideshow {
 	position:relative;
-	height:318px;
+	height:450px;
 }
 #slideshow IMG {
 	position:absolute;
