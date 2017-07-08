@@ -61,6 +61,7 @@ h1, h2, h3, h4, h5, h6, p, a, img, table, tr, td, ul, li, ol, dl, dd {
 	color:#000000;
 }
 #menu-main {
+	position:relative;
 	background-color:#5E5B57;
 	height:38px;
 	margin:0 5px 0 5px;
@@ -833,13 +834,6 @@ p.sliderimg a {
 	z-index:9;
 }
 #banner {
-	/*padding:0 0 10px 0;*/
-
-	/*background:url(../images/banner_shadow.gif) no-repeat bottom center;
-
-	*/
-
-
 	position:relative;
 	overflow:hidden;
 	width:900px;

@@ -7,9 +7,9 @@
   <link href="dropdown.css"  rel="stylesheet" type="text/css" />
   <link href="default.advanced.css"  rel="stylesheet" type="text/css" />
   <link href="default.css"  rel="stylesheet" type="text/css" />
-  <link  rel="stylesheet" type="text/css" href="menu.css" />
+  <link rel="stylesheet" type="text/css" href="menu.css" />
   <script src="menu.js" type="text/javascript"></script>
-  <script  type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 </head>
 <body>
   <div class="wrpaer">
@@ -28,42 +28,39 @@
           &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;9:00AM ~ 5:00PM S
         </div>
       </div>
-      <div class="clear"></div>
     </div>
-    <div class="menu2">
+    <div>
       <?php include('header_menu.php');?>
     </div>
     <div id="banner">
       <div id="slideshow">
-        <img src="images/banner-img.png"  width="900px" height="318" alt="image1" class="active" /><img src="images/banner-2.png"  width="900px" height="318" alt="image2" /><img src="images/banner-3.jpg" width="900px" height="318" alt="image3" /><img src="images/banner-4.jpg" width="900px" height="318" alt="image4" /><img src="images/banner-5.jpg" width="900px" height="318" alt="image5" />
+        <img src="images/banner-img.png" width="900px" height="318" alt="image1" class="active" /><img src="images/banner-2.png" width="900px" height="318" alt="image2" /><img src="images/banner-3.jpg" width="900px" height="318" alt="image3" /><img src="images/banner-4.jpg" width="900px" height="318" alt="image4" /><img src="images/banner-5.jpg" width="900px" height="318" alt="image5" />
       </div>
     </div>
     <div class="content-main">
-    <div class="content-main-lft">
-    <h2>Welcome to Kirkland Fireplace</h2>
-    <p>
-    Some people choose <strong>Kirkland Fireplace</strong> for our wide selection of premium quality <span>gas</span>, <span>wood</span> and <span>electric</span>
-    fireplaces and inserts --- each custom crafted with an artful eye for detail, while others value our reputation for energy efficiency and innovative design. Seattle's Eastside homeowners have chosen Kirkland Fireplace for their stove and fireplace needs since 1979.
-    </p>
-    <br />
-    <span class="about-us">
-    <a href="Aboutus.php">Read more about us</a>
-    </span>
-    </div>
-    <div class="content-main-rite">
-    <div class="map-bg">
-    	<iframe width="254" height="192" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&source=s_d&saddr=&daddr=12700+NE+124th+St+%2311+*+Kirkland,+WA+98034&hl=en&geocode=Fd0C2AIdQdK3-ClvOUfXgg2QVDElwNXNw3b8Sg&aq=&sll=47.711523,-122.170823&sspn=0.008908,0.016544&dirflg=w&mra=prev&ie=UTF8&ll=47.711523,-122.170823&spn=0.008908,0.016544&t=m&output=embed"></iframe>
-    </br>
-    </div>
-    <div class="txt-dtl">
-    <h2>12700 NE 124th St #11 * Kirkland, WA 98034</h2>
-    <p>
-    From I-405 take Exit 20 (NE 124th St) - Go East 1/2 mile.
-    We are located on the left side of the road in the Totem
-    Commercial Center.<b>Fax 425 820-8319</b>
-    </p>
-    </div>
-    </div>
+      <div class="content-main-lft">
+      <h2>Welcome to Kirkland Fireplace</h2>
+      <p>
+        Some people choose <strong>Kirkland Fireplace</strong> for our wide selection of premium quality <span>gas</span>, <span>wood</span> and <span>electric</span>
+        fireplaces and inserts --- each custom crafted with an artful eye for detail, while others value our reputation for energy efficiency and innovative design. Seattle's Eastside homeowners have chosen Kirkland Fireplace for their stove and fireplace needs since 1979.
+      </p>
+      <span class="about-us">
+      <a href="Aboutus.php">Learn more about us...</a>
+      </span>
+      </div>
+      <div class="content-main-rite">
+        <div class="map-bg">
+        	<iframe width="254" height="192" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&source=s_d&saddr=&daddr=12700+NE+124th+St+%2311+*+Kirkland,+WA+98034&hl=en&geocode=Fd0C2AIdQdK3-ClvOUfXgg2QVDElwNXNw3b8Sg&aq=&sll=47.711523,-122.170823&sspn=0.008908,0.016544&dirflg=w&mra=prev&ie=UTF8&ll=47.711523,-122.170823&spn=0.008908,0.016544&t=m&output=embed"></iframe>
+        </div>
+        <div class="txt-dtl">
+          <h2>12700 NE 124th St #11 Kirkland, WA 98034</h2>
+          <p>
+            From I-405 take Exit 20 (NE 124th St) - Go East 1/2 mile.
+            We are located on the left side of the road in the Totem
+            Commercial Center. <b>Fax: 425-820-8319</b>
+          </p>
+        </div>
+      </div>
     <div class="clear"></div>
     </div>
     <div class="footer-main">
